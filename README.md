@@ -1,5 +1,5 @@
 #API VALORANT
-<img src="https://cdn.vox-cdn.com/thumbor/wE9Nk1vjZK2KKcYwVh20g6jn0Uk=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19928713/valorant_logo.png" alt="Valorant Logo">
+<img src="[https://cdn.vox-cdn.com/thumbor/wE9Nk1vjZK2KKcYwVh20g6jn0Uk=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/19928713/valorant_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F379976%2Fvalorant&psig=AOvVaw2ur5UcBFKtaUZlawAgtrTE&ust=1680905599626000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjZlLyjlv4CFQAAAAAdAAAAABAE)" alt="Valorant Logo">
 
 ## Nome do criador
 Luiz Gustavo David de Barros - 3AETIMDS
