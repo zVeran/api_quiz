@@ -6,9 +6,7 @@
 Este projeto consiste em uma aplicação mobile que utiliza a API do Valorant para exibir informações sobre as skins das armas que são utilizadas dentro do jogo.
 
 ## Funcionalidades
-- [ ] Exibir informações do perfil do jogador
-- [ ] Exibir estatísticas das partidas jogadas pelo jogador
-- [ ] Exibir informações dos agentes do jogo
+- [ ] Exibi os catálogos de skins 
 
 ## Tecnologias Utilizadas
 - HTML
@@ -16,11 +14,7 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Valorant pa
 - JavaScript
 
 ## Como utilizar
-1. Clone o repositório
-2. Abra o arquivo index.html em um navegador
-3. Insira o nome de usuário na caixa de pesquisa
-4. Clique no botão "Buscar"
-5. As informações do jogador serão exibidas na tela
+*POR ENQUANTO SEM FORMA DE UTILIZAÇÃO*
 
 ## Criado por
-Luiz Gustavo David de Barros
+Luiz Gustavo David de Barros 3A ETIM DESENVOLVIMENTO DE SISTEMAS (DS)
