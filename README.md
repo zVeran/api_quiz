@@ -22,6 +22,9 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Valorant pa
 ## Como utilizar
 *|O usuário entraria na tela inicial e poderia localizar a skin busncando-a  combase no seu nome, ou pesquisando sobre a arma, onde estaria todas as informações desejadas.|*  
 
+## Wiki
+- https://github.com/zVeran/api_valorant.wiki.git
+
 ## Criador | Curso
 Luiz Gustavo David de Barros | 3A Etim Desenvolvimento de Sistemas (3DS)
 
