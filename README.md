@@ -14,7 +14,7 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Valorant pa
 - [ ] Exibi um catálogos de skins
 
 ## ENDPOINT
-/weapons/skins
+v1/weapons/skins
 
 ## Software utilizado | Tecnologia 
 - AndroidStudio | Java 
