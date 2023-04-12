@@ -30,4 +30,4 @@ v1/weapons/skins
 Luiz Gustavo David de Barros | 3A Etim Desenvolvimento de Sistemas (3DS)
 
 ## Orientadora | Componente
-Aline Faria Brito | PAM III
+Aline Firmino Brito | PAM III
