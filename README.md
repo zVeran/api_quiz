@@ -8,11 +8,11 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia
 - Retorna os dados de utilização oficial da API
 
 ### URL DE ACESSO A API 
-- POSSUI TOKEN DE ACESSO 
+- https://opentdb.com/api.php
 
 #### UTILIZANDO O TOKEN 
 - (1) Primeiro você precisa realizar um registro no site da api para poder ser disponibilizado o token. 
-- (2) 
+- (2) Aós isso, você poderá utilizar o token, podendo o redefinir.
 - <b>OS TOKENS DE SESSÃO SERÃO EXCLUÍDOS APÓS 6 HORAS DE INATIVIDADE.<b>
 
 #### FUNCIONALIDADE DO TOKEN 
@@ -26,7 +26,7 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia
 
 
 ## ENDPOINT
-v1/weapons/skins
+https://opentdb.com/api.php
 
 ## Software utilizado | Tecnologia 
 - AndroidStudio | Java 
