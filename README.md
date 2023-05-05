@@ -1,5 +1,7 @@
 # API do Open Trivia DB - QUIZSTORM
 
+<img src="https://i.imgur.com/9YatsTi.png">
+
 ## Descrição
 Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia DB para realizar um mini quiz com o usuário, podendo escolher a categoria da partida, além disso poder ver a sua pontuação no seu perfil.
 
