@@ -12,7 +12,7 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia
 
 #### UTILIZANDO O TOKEN 
 - (1) Primeiro você precisa realizar um registro no site da api para poder ser disponibilizado o token. 
-- (2) Aós isso, você poderá utilizar o token, podendo o redefinir.
+- (2) Após isso, você poderá utilizar o token, podendo o redefinir.
 - <b>OS TOKENS DE SESSÃO SERÃO EXCLUÍDOS APÓS 6 HORAS DE INATIVIDADE.<b>
 
 #### FUNCIONALIDADE DO TOKEN 
@@ -26,7 +26,7 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia
 
 
 ## ENDPOINT
-https://opentdb.com/api.php
+https://opentdb.com/api.php (GET)
 
 ## Software utilizado | Tecnologia 
 - AndroidStudio | Java 
