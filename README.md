@@ -32,7 +32,7 @@ https://opentdb.com/api.php
 - AndroidStudio | Java 
 
 ## Wiki
-- https://github.com/zVeran/api_valorant/wiki/Par%C3%A2metros
+- https://github.com/zVeran/api_quiz/wiki
 
 ## Criador | Curso
 Luiz Gustavo David de Barros | 3A Etim Desenvolvimento de Sistemas (3DS)
