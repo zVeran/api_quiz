@@ -20,10 +20,10 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia
 - Os tokens de sessão são chaves exclusivas que ajudarão a acompanhar as perguntas que a API já recuperou. Ao anexar um token de sessão a uma chamada de API, a API nunca fornecerá a mesma pergunta duas vezes.
 
 ## Funcionalidades da API com o usuário 
-- [ ] Pode escolher a quantidade de perguntas;
-- [ ] Selecionar qual tipo de categoria irá jogar;
-- [ ] Dificuldade do quiz, sendo três tipos - Facíl, médio e difícil;
-- [ ] Modo de resposta variando entre, múltipla escolha ou verdadeiro e falso.
+- [ ] Pode escolher a quantidade de perguntas
+- [ ] Selecionar qual tipo de categoria irá jogar
+- [ ] Dificuldade do quiz, sendo três tipos - Facíl, médio e difícil
+- [ ] Modo de resposta variando entre, múltipla escolha ou verdadeiro e falso
 
 
 ## ENDPOINT
