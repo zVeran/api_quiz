@@ -1,5 +1,4 @@
 API do Open Trivia DB
-<img src="https://wallpapers.com/images/featured/x0jet8s98hbbfi62.jpg">
 
 ## Descrição
 Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia DB para realizar um mini quiz com o usuário, podendo escolher a categoria da partida, além disso poder ver a sua pontuação no seu perfil.
