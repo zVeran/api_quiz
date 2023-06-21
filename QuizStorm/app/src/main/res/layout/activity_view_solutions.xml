@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/buttonReturnHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/azulbackground"
+        android:text="Voltar ao início"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:text="  Solutions:"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:background="@color/azulbackground"
+        android:textStyle="bold" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ProgressBar
+            android:id="@+id/solutions_loading_indicator"
+            style="@style/Widget.AppCompat.ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="invisible" />
+
+        <ListView
+            android:id="@+id/listSolutions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/azulbackground"
+            android:textColor="@color/white">
+
+        </ListView>
+
+    </RelativeLayout>
+
+</LinearLayout>
