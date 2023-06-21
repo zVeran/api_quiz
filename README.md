@@ -35,7 +35,7 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia
 <img src="https://i.imgur.com/pLGL2KX.png" height="500px" >
 
 ## Link para assistir o vídeo 
-
+!(https://youtu.be/s4XtqT4Mt08)
 
 ## ENDPOINT
 https://opentdb.com/api.php (GET)
