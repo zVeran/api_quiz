@@ -26,6 +26,16 @@ Este projeto consiste em uma aplicação mobile que utiliza a API do Open Trivia
 - [ ] Dificuldade do quiz, sendo três tipos - Facíl, médio e difícil
 - [ ] Modo de resposta variando entre, múltipla escolha ou verdadeiro e falso
 
+## API FUNCIONANDO 
+
+<img src="https://i.imgur.com/3mfG03Q.png" height="500px" >
+<img src="https://i.imgur.com/6SuvPLW.png" height="500px" >
+<img src="https://i.imgur.com/RvoWkvR.png" height="500px" >
+<img src="https://i.imgur.com/yg1AGfC.png" height="500px" > 
+<img src="https://i.imgur.com/pLGL2KX.png" height="500px" >
+
+## Link para assistir o vídeo 
+
 
 ## ENDPOINT
 https://opentdb.com/api.php (GET)
